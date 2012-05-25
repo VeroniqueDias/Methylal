@@ -438,8 +438,7 @@ REACTIONS CAL/MOLE
   C8H7+OH = C8H6+H2O 2.0000E+013 0.0000E+000 0.0000E+000 !                                                                                                                                                             Marinov (1998)
   C8H7+H = C8H6+H2 1.5000E+013 0.0000E+000 0.0000E+000 !                                                                                                                                                             Wang (1997)
   C8H6+OH = C8H5+H2O 2.1000E+013 0.0000E+000 4.5620E+003 !                                                                                                                                                             Frenklach (1987)
-  C8H6+H = C8H5+H2 2.5000E+014 0.0000E+000 1.6000E+004 !                                                                                                                                                          Richter (1999)
-  C8H5+H2 => C8H6+H 5.0000E+012 0.0000E+000 1.1500E+004 !                                                                                                                                                             Dias (2006) par analogie Bastin C6H5+H2
+    C8H5+H2 => C8H6+H 5.0000E+012 0.0000E+000 1.1500E+004 !                                                                                                                                                             Dias (2006) par analogie Bastin C6H5+H2
   C6H5+C3H3 = C9H7+H 3.0000E+012 0.0000E+000 0.0000E+000 !                                                                                                                                                             D'Anna (1998)
   C9H8+OH = C9H7+H2O 1.5700E+007 1.8300E+000 2.7800E+003 !                                          Richter (1999)
   C9H8+H = C9H7+H2 1.4800E+014 0.0000E+000 1.3585E+004 !                                           Richter (1999)
